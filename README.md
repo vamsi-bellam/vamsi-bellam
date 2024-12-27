@@ -1,12 +1,10 @@
-# Hi 👋, I'm Vamsi Bellam
+# Hi 👋, I'm [Vamsi Bellam](vamsibellam.com)
 
 [![Resume](https://img.shields.io/badge/Resume-vamsibellam-blue)](https://vamsibellam.com/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi_Bellam-blue)](https://www.linkedin.com/in/vamsi-bellam)
 [![Email](https://img.shields.io/badge/Email-vbellam%40buffalo.edu-red)](mailto:vbellam@buffalo.edu)
 
 ## 🎓 About Me
-
-Hi 👋, I am [Vamsi Bellam](vamsibellam.com).
 
 I am a computer science and engineering graduate student at the University at Buffalo. **I am actively looking for Full-time opportunities starting May 2025. If you are looking for someone, Please reach out to me on [linkedin](https://www.linkedin.com/in/vamsi-bellam) or email me at vbellam@buffalo.edu**
 
