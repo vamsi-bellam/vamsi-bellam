@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Vamsi Bellam](vamsibellam.com)
+# Hi 👋, I'm [Vamsi Bellam](https://vamsibellam.com/)
 
 [![Resume](https://img.shields.io/badge/Resume-vamsibellam-blue)](https://vamsibellam.com/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi_Bellam-blue)](https://www.linkedin.com/in/vamsibellam/)
