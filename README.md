@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Vamsi Bellam](https://vamsibellam.com/)
 
 [![Resume](https://img.shields.io/badge/Resume-vamsibellam-blue)](https://vamsibellam.com/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi_Bellam-blue)](https://www.linkedin.com/in/vamsibellam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi_Bellam-blue)](https://www.linkedin.com/in/vamsi-bellam/)
 [![Email](https://img.shields.io/badge/Email-vbellam%40buffalo.edu-red)](mailto:vbellam@buffalo.edu)
 
 ## 🎓 About Me
