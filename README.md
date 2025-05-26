@@ -2,7 +2,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-vamsibellam-blue)](https://vamsibellam.com/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi_Bellam-blue)](https://www.linkedin.com/in/vamsi-bellam/)
-[![Email](https://img.shields.io/badge/Email-vbellam%40buffalo.edu-red)](mailto:vbellam@buffalo.edu)
+[![Email](https://img.shields.io/badge/Email-ivamsibellam%40gmail.com-blue)](mailto:ivamsibellam@gmail.com)
 
 ## 🎓 About Me
 I am a computer science and engineering graduate student at the University at Buffalo. **I am actively looking for Full-time SDE/SWE opportunities.** If you are looking for someone, please contact me on [linkedin](https://www.linkedin.com/in/vamsi-bellam/) or email me at ivamsibellam@gmail.com
